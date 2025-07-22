@@ -80,9 +80,14 @@ if uploaded_file is not None:
 
         st.title("Weekly Activity Heatmap")
         user_heatmap = helper.activity_heatmap(selected_user, df)
-        fig,ax = plt.subplots()
-        ax = sns.heatmap(user_heatmap)
-        st.pyplot(fig)
+        # Check if the heatmap dataframe is empty before plotting
+        if not user_heatmap.empty:
+            fig,ax = plt.subplots()
+            ax = sns.heatmap(user_heatmap)
+            st.pyplot(fig)
+        else:
+            st.info("Not enough data to generate an activity heatmap.")
+
 
         # finding the busiest user in the group
         if selected_user == "Overall":
