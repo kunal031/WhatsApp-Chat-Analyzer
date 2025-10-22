@@ -22,7 +22,7 @@ This project helps you **analyze your exported WhatsApp chat files** (individual
 ---
 ## 🧑‍💻 Tech Stack
 
-- **Python **
+- **Python**
 
 - **Pandas, Matplotlib, Seaborn, WordCloud**
 
