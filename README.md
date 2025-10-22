@@ -9,6 +9,10 @@ WhatsApp does not provide detailed analytics about your chats.
 This project helps you **analyze your exported WhatsApp chat files** (individual or group) and visualize interesting statistics such as message frequency, word count, emoji usage, and more.
 
 ---
+[![Watch the video](image.png]([https://youtu.be/<VIDEO_ID>](https://youtu.be/ucagh9kYeR8))
+
+
+---
 
 ## ✨ Features
 - 📅 **Timeline Analysis** — View chat activity by day, month, or hour  
