@@ -1,6 +1,6 @@
 # 📊 WhatsApp Chat Analyzer
 
-A powerful yet simple tool to analyze your **WhatsApp chat exports** and get detailed insights into your messaging behavior — with charts, word clouds, and activity summaries.
+A powerful tool to analyze your **WhatsApp chat exports** and get detailed insights into your messaging behavior — with charts, word clouds, and activity summaries.
 
 ---
 
