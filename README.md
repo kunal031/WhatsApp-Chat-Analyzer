@@ -20,6 +20,15 @@ This project helps you **analyze your exported WhatsApp chat files** (individual
 - 🧠 Optional: Sentiment or emotion analysis (future update)
 
 ---
+## 🧑‍💻 Tech Stack
+
+- **Python 🐍**
+
+- **Pandas, Matplotlib, Seaborn, WordCloud**
+
+- **Streamlit (for visualization UI)**
+
+---
 
 ## 📂 How It Works
 1. **Export your chat from WhatsApp:**
