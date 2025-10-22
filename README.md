@@ -22,7 +22,7 @@ This project helps you **analyze your exported WhatsApp chat files** (individual
 ---
 ## 🧑‍💻 Tech Stack
 
-- **Python 🐍**
+- **Python **
 
 - **Pandas, Matplotlib, Seaborn, WordCloud**
 
@@ -38,6 +38,18 @@ This project helps you **analyze your exported WhatsApp chat files** (individual
 3. **Run the analyzer** to view detailed insights, stats, and graphs  
 
 ---
+## 💡 Future Enhancements
+
+- **📈 Sentiment analysis**
+
+- **🔍 Message topic clustering**
+
+- **📊 PDF or CSV report export**
+
+- **🌐 Online hosted version for easier access**
+
+- **🧩 Integration with Google Data Studio or Power BI**
+---
 
 ## ⚙️ Installation
 Make sure you have **Python 3.x** installed.
@@ -51,3 +63,5 @@ cd WhatsApp-Chat-Analyzer
 
 # Install dependencies
 pip install -r requirements.txt
+
+
